@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm Diogo Costa Ferraz, an experienced Engineer with a passion for developing innovative software solutions. Here's a little about me:
 <br />
+<br />
 🔭 I’m currently working on exciting projects at (Zartis)[https://www.zartis.com/] as a Senior FullStack Software Engineer. <br />
 🌱 I’m always learning and staying updated with the latest technologies in the software development world. <br />
 🤖 I'm currently studying for a Master of Business Administration in AI, Data Science, and Big Data for Business. <br />
